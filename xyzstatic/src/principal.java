@@ -12,15 +12,15 @@ public class principal {
 	
 
 	public static void main(String[] args) {
-		int poscommit=1;
+		int poscommit2=1;
 		int variable=0;
 
 		
-		while (poscommit<11) {
-			variable = poscommit+1;
-			System.out.println(poscommit);
-			poscommit=poscommit+1;
-			System.out.println(poscommit);
+		while (poscommit2<11) {
+			variable = poscommit2+1;
+			System.out.println(poscommit2);
+			poscommit2=poscommit2+1;
+			System.out.println(poscommit2);
 		}
 	}
 
